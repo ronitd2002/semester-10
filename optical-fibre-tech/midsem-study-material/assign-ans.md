@@ -79,7 +79,8 @@ Here are the answers to the questions based on the provided assignment:
 
 **Question (11)**: The guide dimensions are $a = 2$ cm and $b = 1$ cm. (Calculation: Ensure single mode operation at 15 GHz with 10% margin).
 
-**Question (12)**: The average power density in the TE$_{10}$ mode is given by $P_{av} = \frac{\beta_{10}}{2\omega\mu}E_{0}^{2}\sin^{2}(\kappa_{10}x)\, \mathbf{a}_{z}$. (Explanation: Derived from the relation $P_{av} = \frac{1}{2}\text{Re}\{\mathbf{E}_{s} \times \mathbf{H}_{s}^{*}\}$).
+**Question (12)**: The average power density in the $TE_{10}$ mode is given by $P_{av} = \frac{\beta_{10}}{2\omega\mu}E_{0}^{2}\sin^{2}(\kappa_{10}x)$, $\mathbf{a}_{z}$. (Explanation: Derived from the relation 
+$P_{av} = \frac{1}{2}\text{Re}\{\mathbf{E}_{s} \times \mathbf{H}_{s}^{*}\}$).
 
 ---
 
