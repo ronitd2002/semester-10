@@ -128,7 +128,7 @@ $v_g = c\, \sqrt{1 - \left(\frac{\lambda}{\lambda_c}\right)^2}$
 
 **(g) Power Flow (Poynting Vector):**
 
-$P = \frac{1}{2} \Re \left\{ \int_S \left(\mathbf{E} \times \mathbf{H}^*\right) \cdot \hat{z}\, dS \right\}$
+$P = \frac{1}{2} \Re\{\int_S \left(\mathbf{E} \times \mathbf{H}^*\right) \cdot \hat{z}\, dS\}$
 - $P$ = power (W)  
 - $\mathbf{E}$ = electric field (V/m)  
 - $\mathbf{H}$ = magnetic field (A/m)  
