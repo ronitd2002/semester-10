@@ -173,6 +173,3 @@ Below is a comprehensive “cheat‐sheet” of the key equations that appear ac
   • ẑ = unit vector in the z (propagation) direction
 
 *(These are the standard relations for rectangular (metallic) waveguides as reflected in the Metallic Waveguides assignment citeturn0file2.)*
-
-──────────────────────────────
-Use these equations as the backbone for your study—they are derived from Maxwell’s equations with appropriate boundary conditions and are central to solving problems in waveguide theory. Good luck acing your test!
