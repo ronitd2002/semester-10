@@ -126,7 +126,8 @@ $v_p = \frac{\omega}{\beta} = \frac{c}{\sqrt{1 - \left(\frac{\lambda}{\lambda_c}
 $v_g = c\, \sqrt{1 - \left(\frac{\lambda}{\lambda_c}\right)^2}$
 - $\lambda$ = operating wavelength (m)
 
-**(g) Power Flow (Poynting Vector):**  
+**(g) Power Flow (Poynting Vector):**
+
 $P = \frac{1}{2} \Re \left\{ \int_S \left(\mathbf{E} \times \mathbf{H}^*\right) \cdot \hat{z}\, dS \right\}$
 - $P$ = power (W)  
 - $\mathbf{E}$ = electric field (V/m)  
