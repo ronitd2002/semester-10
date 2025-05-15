@@ -16,7 +16,7 @@ Midsem: Magnetic moment, Precession, Larmor frequency, Canonical momentum, Types
 
 Endsem: Spin waves, magnon, dispersion relation, Bloch T^3/2 law, Antiferromagnetism, Neel temperature, sublattice magnetization, types of AFM, Weiss molecular field theory for AFM, AFM susceptibility-temperature relation, A-B sublattice weak,strong coupling, Total energy : zeeman coupling, exchange coupling, anisotropy term, minimum energy configuration, indirect exchange, AFM superexchange, double exchange interaction, RKKY exchange interaction, superconductivity, type1 vs type2, london-pippard theory, london's equations, penetration length, coherence length, isotope theory, persistent current, Thermodynamics, Specific heat variation, critical current, Flux quantization, Quantum tunneling, MIM, MIS, SIS junctions, Josephson tunneling, DC josephson effect, AC josephson effect, Temporal and spatial dependence of phase, Supercurrent junction interference, Single junction current, single DC SQUID circuit diagram, BCS theory, Cooper pair instability, e-p vortex, fermi sphere, BCS ground state, BEC, BCS energy gap relation, Density of states.
 
-Term paper : Skyrmion Qubits (Christina Psaroudaki and Christos Panagopoulos) [link1](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.067201) [2](https://arxiv.org/pdf/2401.03773)
+Term paper : Skyrmion Qubits (Christina Psaroudaki and Christos Panagopoulos) [link1](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.067201) [link2](https://arxiv.org/pdf/2401.03773)
 
 ## Optical Fibre Technology : 
 Topics:
